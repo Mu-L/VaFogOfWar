@@ -12,6 +12,7 @@
 #include "DrawDebugHelpers.h"
 #include "Engine/CollisionProfile.h"
 #include "UObject/ConstructorHelpers.h"
+#include "Engine/Texture2D.h"
 
 AVaFogBoundsVolume::AVaFogBoundsVolume(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)

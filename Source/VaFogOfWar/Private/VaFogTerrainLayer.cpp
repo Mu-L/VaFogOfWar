@@ -9,6 +9,7 @@
 #include "Components/BillboardComponent.h"
 #include "Engine/Texture2D.h"
 #include "UObject/ConstructorHelpers.h"
+#include "TextureResource.h"
 
 AVaFogTerrainLayer::AVaFogTerrainLayer(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)

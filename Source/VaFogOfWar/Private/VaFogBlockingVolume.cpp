@@ -9,6 +9,7 @@
 #include "Components/BrushComponent.h"
 #include "Engine/CollisionProfile.h"
 #include "UObject/ConstructorHelpers.h"
+#include "Engine/Texture2D.h"
 
 AVaFogBlockingVolume::AVaFogBlockingVolume(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)

@@ -5,6 +5,7 @@
 #include "VaFogController.h"
 #include "VaFogDefines.h"
 
+#include "Engine/Texture2D.h"
 #include "Components/BillboardComponent.h"
 
 UVaFogAgentComponent::UVaFogAgentComponent(const FObjectInitializer& ObjectInitializer)
