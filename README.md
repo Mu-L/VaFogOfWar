@@ -5,6 +5,8 @@
 
 A clear and simple solution of Fog of War for Unreal Engine 4.
 
+Full demo available [here](https://github.com/ufna/VaFogOfWarDemoBP).
+
 ![SCREENSHOT](SCREENSHOT.jpg)
 
 **VaFogOfWar** implements fast and optimized fog of war solution for topdown games like Dota, StarCraft or League of Legends. It fast enough even to work on mid-end mobile devices, so it works like a charm on desktop.
