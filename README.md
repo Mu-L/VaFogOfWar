@@ -1,6 +1,9 @@
 ![GitHub](https://img.shields.io/github/license/ufna/VaFogOfWar)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ufna/VaFogOfWar?include_prereleases)
 
+> [!IMPORTANT]
+> Thank you for your support and engagement with the VaFogOfWar project! I want to let you know that I will be archiving this repository. While I will no longer be actively maintaining it, I encourage anyone who is interested to fork the project and continue development as you see fit.
+
 # VaFogOfWar
 
 A clear and simple solution of Fog of War for Unreal Engine 4.
